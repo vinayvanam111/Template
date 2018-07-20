@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+}
+nav{
+    background-color: cyan;
+
+}
+nav ul{
+    list-style-type: none;
+    overflow: hidden;
+    padding: 0;
+}
+nav ul li{
+    float: left;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 14px 20px;
+    display: block;
+}
+
+.vinay{
+    margin-left: 500px;
+}
+.brand{
+    background-color: #fcfdff;
+    padding: 14px 20px;
+    color: black;
+    font-weight: bold;
+}
+.pera{
+    background-color: #fcfdff;
+    padding: 15px;
+    color: cyan;
+}
+#main-text{
+    margin-left: 50px;
+    padding-top: 25px;
+}
+#main-text h4{
+    text-align: justify;
+    margin-right: 800px;
+}
+#right-text{
+    margin-left: 550px;
+    text-align: justify;
+    margin-top: -535px;
+}
+.right-pear{
+    margin-right: 20px;
+    margin-top: -305px;
+    width: 300px;
+    margin-left: 420px;
+}
+#footer-text{
+    margin-left: 550px;
+    margin-top: 20px;
+    margin-right: 55px;
+    text-align: justify;
+}
+.footer{
+    background-color: lightgray;
+    height: 100px;
+}
+.footer{
+    text-align: center;
+    margin-top: 30px;
+}
+.footer small{
+    top: 40px;
+    position: relative;
+}
